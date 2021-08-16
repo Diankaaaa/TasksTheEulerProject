@@ -19,5 +19,6 @@ int main() {
 	difference = quare_sum - sum_square;
 
 	printf("Разность = %d\n", difference);
+	
 	return 0;
 }
